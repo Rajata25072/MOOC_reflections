@@ -10,6 +10,9 @@ Value offered: Could show difference in 2 stages
 2. staging area vs repository: progress of latest work vs last stored commit
 
 How can you use the staging area to make sure you have one commit per logical change?
+- check the difference using 
+1. git diff (staging area/recent commit vs working directory): progress done in working directory compared to last saved commit
+2. git diff --staged (staging area vs recent commit): progress of file in staging area vs last stored commit
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
