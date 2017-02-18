@@ -6,7 +6,7 @@ How is the staging area different from the working directory and the repository?
 working directory: main directory that work is going on
 repository: place to store metadata regarding file historical change
 Value offered: Could show difference in 2 stages
-1. staging area vs working directory: progress done in staging area
+1. staging area/recent commit vs working directory: progress done in staging area
 2. staging area vs repository: progress of latest work vs last stored commit
 
 How can you use the staging area to make sure you have one commit per logical change?
