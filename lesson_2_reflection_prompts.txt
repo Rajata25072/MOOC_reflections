@@ -15,6 +15,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 2. git diff --staged (staging area vs recent commit): progress of file in staging area vs last stored commit
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+- Can do experimental or add-on feature (which could introduce bugs) without interupting the core work (which suppose to me always working nicely)
 
 How do the diagrams help you visualize the branch structure?
 
