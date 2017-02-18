@@ -18,6 +18,7 @@ What are some situations when branches would be helpful in keeping your history 
 - Can do experimental or add-on feature (which could introduce bugs) without interupting the core work (which suppose to me always working nicely)
 
 How do the diagrams help you visualize the branch structure?
+- Help to see the parent commit for each commit thus make it easier to see the which commit is unreachable and have to create the new branch when making new change that is not at the tip of branch
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
