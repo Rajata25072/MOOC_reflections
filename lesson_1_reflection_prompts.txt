@@ -22,8 +22,11 @@ files in one commit, while others, like Google Docs, treat each file separately?
 	group of files to lump together
 
 How can you use the commands git log and git diff to view the history of files?
-
-    Fill in your answer here
+	- git log: View entire history
+	git diff: View diff of 
+		1) working directory vs staging area 
+		2) between 2 commit 
+		3) staging area vs latest commit
 
 How might using version control make you more confident to make changes that
 could break something?
