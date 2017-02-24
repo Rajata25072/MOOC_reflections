@@ -30,8 +30,9 @@ How can you use the commands git log and git diff to view the history of files?
 
 How might using version control make you more confident to make changes that
 could break something?
-
-    Fill in your answer here
+	- By creating new branch for experimentation, yuo have ensure that the 
+	master branch will not be disturbed thus you are able to experimet freely
+	without fearing that it could break master branch (main code)
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
