@@ -1,1 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
+	- 1) To be able to collaborate with others
+	2) Back-up file on the cloud
+	3) Work solo, but with >1 computer
+	4) Show the code to others as portfolio
